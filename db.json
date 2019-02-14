@@ -1,0 +1,8 @@
+{
+	"host":"localhost",
+	"user":"root",
+	"password":"root",
+	"database":"demo_db",
+	"pool_size":100,
+	"multipleStatements":true
+}
